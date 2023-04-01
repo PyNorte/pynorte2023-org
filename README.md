@@ -1,5 +1,9 @@
 # Organização Pynorte Manaus 2023 
 
+Período do evento: última quinzena de outubro (2 dias de evento);
+
+Quantidade de pessoas: 100-150;
+
 ## Reuniões
 
 **Organização Geral**: Toda quarta-feira de 18:00 às 19:30 (Fuso Manaus) | 19:00 às 20:30 (Fuso Brasília)
