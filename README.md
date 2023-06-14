@@ -27,6 +27,10 @@ Como mencionado acima, todos da organização são voluntários e mantêm  as at
 
 **Data prevista**: segunda quinzena de **setembro** (2 dias de evento);
 
+* Plano **A**: 29 e 30 de setembro (Sexta e sábado)
+* Plano **B**: 22 e 23 de setembro (sexta e sábado)
+* Plano **C**: 28 e 29 de setembro (quinta e sexta)
+
 **Quantidade de pessoas**: 100-150;
 
 **Local**: Acompanhar issue -> [Local do evento](https://github.com/PyNorte/pynorte2023-org/issues/7)
