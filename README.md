@@ -25,7 +25,7 @@ Como mencionado acima, todos da organização são voluntários e mantêm  as at
 
 ## Informações sobre o evento
 
-**Data prevista**: Última quinzena de outubro (2 dias de evento);
+**Data prevista**: segunda quinzena de **setembro** (2 dias de evento);
 
 **Quantidade de pessoas**: 100-150;
 
